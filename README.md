@@ -1,14 +1,14 @@
 # Music Library Management
 | Backend Used | J2EE (Java) |
 |--|--|
----
+
 |Tools Used| Version |
 |--|--|
 | Eclipse IDE | neon.3 |
 | JDK | 8 / 1.8 |
 | Oracle DB | 11g XE |
 | Apache Tomcat Server | 9.0.34 |
----
+
 ## Create Database Tables (Users, Musics, Artists & Favorites)
 **Use Sqlplus to run all the queries**
 ```
