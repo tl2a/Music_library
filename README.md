@@ -1,5 +1,5 @@
 # Music Library Management
-| Backend Used | J2EE (Java) |
+| Backend | J2EE (Java) |
 |--|--|
 
 |Tools Used| Version |
