@@ -1,8 +1,6 @@
 # Music Library Management
-| Backend | J2EE (Java) |
-|--|--|
-| CSS Framework | Bootstrap (4.4.1) |
-|--|--|
+| **Backend** | J2EE (Java) |
+| **CSS Framework** | Bootstrap (4.4.1) |
 
 |Tools Used| Version |
 |--|--|
