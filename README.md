@@ -37,4 +37,8 @@ CREATE TABLE FAVORITES(
     url VARCHAR2(100) NOT NULL
 );
 ```
+**Create your first admin user at the beginning**
+```
+INSERT INTO USERS VALUES ('Alex','alex','admin');
+```
 **Fix your connection statement line with your db credentials and schemas if necessary before running on server**
